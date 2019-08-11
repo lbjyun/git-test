@@ -26,6 +26,9 @@ public class test {
         int j=1;
         System.out.println(i+j);
 
+
+        System.out.println("今晚打老虎");
+
     }
 
 
